@@ -1,4 +1,4 @@
-# Sales_prsdiction_using_python
+# Sales_prediction_using_python
 
 
 #Oasis  Infobytes
